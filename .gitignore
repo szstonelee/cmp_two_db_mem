@@ -1,0 +1,8 @@
+*.o
+single_pg
+single_cpp_malloc
+single_cpp_new
+single_cpp_swap_new
+single_pg_swap
+single_cpp_swap_new_with_big
+single_pg_swap_with_big
